@@ -8,7 +8,7 @@ def add(x,y):
 def main():
 	a = 7, b = 8
 	print("Add operation for a = ", a, " and b = ", b, " is ", add(a,b))
-
+	print("Divide operation for a "=, a, " and b = ", b, " is ", divide(a,b))
 
 
 if __name__ == '__main__':
